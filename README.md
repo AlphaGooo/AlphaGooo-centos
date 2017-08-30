@@ -24,3 +24,10 @@
 5. 利用yum搜索一下有没有该软件：yum search samba
 
 6. 找出软件的配置文件：rpm -qc samba samba-common
+
+## 文字接口下载器
+
+centos 可以通wget 进行网页数据的获取（下载），相当于 ftp 下载数据。
+```
+wget [option] [网址]
+```
