@@ -1,5 +1,9 @@
 # AlphaGooo-centos
-个人centos技术积累，不定期更新。
+- [U盘安装CentOs6.5](files/U盘安装CentOs6.5.md) - 怎么用U盘一步步往你的电脑安装 CentOS6.5
+- [CentOS安装Mysql5.7](files/ConetOS安装Mysql5.7.md)  - 怎样在你的CentOS安装Mysql5.7
+- [CentOS测试安装ftp](files/CentOS测试安装ftp.md)  - CentOS测试安装ftp
+
+
 
 ## CentOS 不能上网的一般解决方案：
 
